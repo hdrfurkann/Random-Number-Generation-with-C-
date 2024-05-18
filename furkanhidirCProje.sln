@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "furkanhidirCProje", "furkanhidirCProje\furkanhidirCProje.csproj", "{843F6B96-09E6-4394-AC49-BA8B39FF0326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843F6B96-09E6-4394-AC49-BA8B39FF0326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843F6B96-09E6-4394-AC49-BA8B39FF0326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843F6B96-09E6-4394-AC49-BA8B39FF0326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843F6B96-09E6-4394-AC49-BA8B39FF0326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB72DA66-7471-4267-B25C-C833006BF8EF}
+	EndGlobalSection
+EndGlobal
